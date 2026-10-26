@@ -1,0 +1,154 @@
+[
+  {
+    "site": "Site A (démo)",
+    "url": "https://www.site-a.ma",
+    "date": "2026-10-24",
+    "pages_crawled": 50,
+    "checks": {
+      "https": true,
+      "robots_txt": true,
+      "sitemap": true,
+      "titles_missing": 1,
+      "titles_too_long": 4,
+      "titles_too_short": 0,
+      "titles_duplicate": 2,
+      "meta_missing": 6,
+      "h1_missing": 2,
+      "h1_multiple": 3,
+      "images_total": 180,
+      "images_no_alt": 30,
+      "links_total": 620,
+      "links_broken": 4
+    },
+    "psi": {
+      "mobile": {
+        "performance": 0.62,
+        "lcp": 3.4,
+        "inp": 240,
+        "cls": 0.08
+      },
+      "desktop": {
+        "performance": 0.85,
+        "lcp": 1.8,
+        "inp": 110,
+        "cls": 0.02
+      }
+    },
+    "issues": [
+      {
+        "category": "tags",
+        "issue": "Meta description manquante",
+        "url": "/page-1",
+        "severity": "Haute"
+      },
+      {
+        "category": "tags",
+        "issue": "H1 manquant",
+        "url": "/page-2",
+        "severity": "Moyenne"
+      },
+      {
+        "category": "tags",
+        "issue": "Title trop long",
+        "url": "/services",
+        "severity": "Faible"
+      },
+      {
+        "category": "crawl",
+        "issue": "Page bloquée par robots.txt",
+        "url": "/admin",
+        "severity": "Faible"
+      },
+      {
+        "category": "images",
+        "issue": "Attribut alt manquant",
+        "url": "/blog/article-1",
+        "severity": "Faible"
+      },
+      {
+        "category": "links",
+        "issue": "Lien interne cassé",
+        "url": "/categorie/2",
+        "severity": "Haute"
+      },
+      {
+        "category": "links",
+        "issue": "Ressource non sécurisée (HTTP)",
+        "url": "/ancienne-page",
+        "severity": "Haute"
+      }
+    ]
+  },
+  {
+    "site": "Site B (démo)",
+    "url": "https://www.site-b.ma",
+    "date": "2026-10-24",
+    "pages_crawled": 50,
+    "checks": {
+      "https": true,
+      "robots_txt": false,
+      "sitemap": false,
+      "titles_missing": 8,
+      "titles_too_long": 10,
+      "titles_too_short": 3,
+      "titles_duplicate": 6,
+      "meta_missing": 28,
+      "h1_missing": 12,
+      "h1_multiple": 9,
+      "images_total": 340,
+      "images_no_alt": 210,
+      "links_total": 800,
+      "links_broken": 55
+    },
+    "psi": {
+      "mobile": {
+        "performance": 0.31,
+        "lcp": 6.2,
+        "inp": 560,
+        "cls": 0.31
+      },
+      "desktop": {
+        "performance": 0.55,
+        "lcp": 3.1,
+        "inp": 260,
+        "cls": 0.12
+      }
+    }
+  },
+  {
+    "site": "Site C (démo)",
+    "url": "http://www.site-c.ma",
+    "date": "2026-10-24",
+    "pages_crawled": 40,
+    "checks": {
+      "https": false,
+      "robots_txt": true,
+      "sitemap": true,
+      "titles_missing": 0,
+      "titles_too_long": 1,
+      "titles_too_short": 0,
+      "titles_duplicate": 0,
+      "meta_missing": 2,
+      "h1_missing": 0,
+      "h1_multiple": 1,
+      "images_total": 90,
+      "images_no_alt": 5,
+      "links_total": 300,
+      "links_broken": 1
+    },
+    "psi": {
+      "mobile": {
+        "performance": 0.78,
+        "lcp": 2.3,
+        "inp": null,
+        "cls": 0.04
+      },
+      "desktop": {
+        "performance": 0.93,
+        "lcp": 1.2,
+        "inp": 90,
+        "cls": 0.01
+      }
+    }
+  }
+]

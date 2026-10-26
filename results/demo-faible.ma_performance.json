@@ -1,0 +1,128 @@
+{
+  "url": "https://www.demo-faible.ma",
+  "domain": "demo-faible.ma",
+  "measured_at": "2026-10-25T14:30:00",
+  "api_available": true,
+  "mobile": {
+    "available": true,
+    "score": 32,
+    "rating": "mauvais",
+    "final_url": "https://www.demo-faible.ma/",
+    "lab": {
+      "fcp_s": 1.6,
+      "lcp_s": 6.4,
+      "tbt_ms": 780,
+      "cls": 0.38,
+      "speed_index_s": 3.2,
+      "tti_s": 4.5
+    },
+    "lab_rating": {
+      "fcp_s": "bon",
+      "lcp_s": "mauvais",
+      "tbt_ms": "mauvais",
+      "cls": "mauvais",
+      "speed_index_s": "bon",
+      "tti_s": "bon"
+    },
+    "field": null,
+    "google_opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Réduire le JavaScript inutilisé",
+        "savings_ms": 2340,
+        "display_value": "Économies estimées",
+        "description": "Réduisez le JavaScript inutilisé."
+      },
+      {
+        "id": "modern-image-formats",
+        "title": "Servir des images au format moderne",
+        "savings_ms": 1600,
+        "display_value": "Économies estimées",
+        "description": "Utilisez WebP ou AVIF."
+      }
+    ],
+    "accessibility": {
+      "score": 73,
+      "rating": "à améliorer",
+      "issues": [
+        {
+          "id": "color-contrast",
+          "title": "Contraste insuffisant",
+          "display_value": null,
+          "weight": 7
+        }
+      ]
+    },
+    "best_practices": {
+      "score": 96,
+      "rating": "bon",
+      "issues": []
+    },
+    "error": null
+  },
+  "desktop": {
+    "available": true,
+    "score": 55,
+    "rating": "à améliorer",
+    "final_url": "https://www.demo-faible.ma/",
+    "lab": {
+      "fcp_s": 1.6,
+      "lcp_s": 3.3,
+      "tbt_ms": 350,
+      "cls": 0.17,
+      "speed_index_s": 3.2,
+      "tti_s": 4.5
+    },
+    "lab_rating": {
+      "fcp_s": "bon",
+      "lcp_s": "à améliorer",
+      "tbt_ms": "à améliorer",
+      "cls": "à améliorer",
+      "speed_index_s": "bon",
+      "tti_s": "bon"
+    },
+    "field": null,
+    "google_opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Réduire le JavaScript inutilisé",
+        "savings_ms": 1050,
+        "display_value": "Économies estimées",
+        "description": "Réduisez le JavaScript inutilisé."
+      },
+      {
+        "id": "modern-image-formats",
+        "title": "Servir des images au format moderne",
+        "savings_ms": 825,
+        "display_value": "Économies estimées",
+        "description": "Utilisez WebP ou AVIF."
+      }
+    ],
+    "accessibility": {
+      "score": 79,
+      "rating": "à améliorer",
+      "issues": [
+        {
+          "id": "color-contrast",
+          "title": "Contraste insuffisant",
+          "display_value": null,
+          "weight": 7
+        }
+      ]
+    },
+    "best_practices": {
+      "score": 96,
+      "rating": "bon",
+      "issues": []
+    },
+    "error": null
+  },
+  "summary": {
+    "mobile_score": 32,
+    "desktop_score": 55,
+    "mobile_lcp_s": 6.4,
+    "mobile_cls": 0.38,
+    "mobile_tbt_ms": 780,
+    "worst_rating": "mauvais"
+  }
+}
