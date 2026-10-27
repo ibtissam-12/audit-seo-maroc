@@ -1,0 +1,206 @@
+{
+  "url": "https://www.avito.ma",
+  "domain": "avito.ma",
+  "measured_at": "2026-10-27T09:35:48",
+  "api_available": true,
+  "mobile": {
+    "available": true,
+    "score": 49,
+    "rating": "mauvais",
+    "final_url": "https://www.avito.ma/",
+    "lab": {
+      "fcp_s": 5.85,
+      "lcp_s": 15.57,
+      "tbt_ms": 364,
+      "cls": 0.015,
+      "speed_index_s": 8.33,
+      "tti_s": 15.81
+    },
+    "lab_rating": {
+      "fcp_s": "mauvais",
+      "lcp_s": "mauvais",
+      "tbt_ms": "à améliorer",
+      "cls": "bon",
+      "speed_index_s": "mauvais",
+      "tti_s": "mauvais"
+    },
+    "field": {
+      "lcp_s": {
+        "value": 2.989,
+        "category": "AVERAGE"
+      },
+      "cls": {
+        "value": 0.24,
+        "category": "AVERAGE"
+      },
+      "inp_ms": {
+        "value": 320.0,
+        "category": "AVERAGE"
+      },
+      "fcp_s": {
+        "value": 1.408,
+        "category": "FAST"
+      },
+      "overall": "AVERAGE"
+    },
+    "google_opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Réduisez les ressources JavaScript inutilisées",
+        "savings_ms": 900,
+        "display_value": "Économies estimées : 298 Kio",
+        "description": "Réduisez les ressources JavaScript inutilisées et différez le chargement des scripts tant qu'ils ne sont pas requis afin de réduire la quantité d'octets consommés par l'activité réseau. [Découvrez com"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Réduisez les ressources CSS inutilisées",
+        "savings_ms": 280,
+        "display_value": "Économies estimées : 23 Kio",
+        "description": "Réduisez les règles inutilisées des feuilles de style et différez les ressources CSS non utilisées pour le contenu au-dessus de la ligne de flottaison afin de réduire la quantité d'octets consommés pa"
+      },
+      {
+        "id": "unminified-css",
+        "title": "Réduisez la taille des ressources CSS",
+        "savings_ms": 0,
+        "display_value": "Économies estimées : 2 Kio",
+        "description": "La minimisation des fichiers CSS peut réduire la taille des charges utiles de réseau. [Découvrez comment minimiser des fichiers CSS.](https://developer.chrome.com/docs/lighthouse/performance/unminifie"
+      }
+    ],
+    "accessibility": {
+      "score": 92,
+      "rating": "bon",
+      "issues": [
+        {
+          "id": "aria-hidden-focus",
+          "title": "Les éléments `[aria-hidden=\"true\"]` contiennent des descendants sélectionnables",
+          "display_value": null,
+          "weight": 7
+        },
+        {
+          "id": "color-contrast",
+          "title": "Les couleurs d'arrière-plan et de premier plan ne sont pas suffisamment contrastées",
+          "display_value": null,
+          "weight": 7
+        },
+        {
+          "id": "heading-order",
+          "title": "Les éléments d'en-tête ne sont pas classés séquentiellement par ordre décroissant",
+          "display_value": null,
+          "weight": 3
+        }
+      ]
+    },
+    "best_practices": {
+      "score": 96,
+      "rating": "bon",
+      "issues": [
+        {
+          "id": "errors-in-console",
+          "title": "Les erreurs de navigateur ont été enregistrées dans la console",
+          "display_value": null,
+          "weight": 1
+        }
+      ]
+    },
+    "error": null
+  },
+  "desktop": {
+    "available": true,
+    "score": 46,
+    "rating": "mauvais",
+    "final_url": "https://www.avito.ma/",
+    "lab": {
+      "fcp_s": 0.51,
+      "lcp_s": 3.96,
+      "tbt_ms": 657,
+      "cls": 0.128,
+      "speed_index_s": 1.99,
+      "tti_s": 3.99
+    },
+    "lab_rating": {
+      "fcp_s": "bon",
+      "lcp_s": "à améliorer",
+      "tbt_ms": "mauvais",
+      "cls": "à améliorer",
+      "speed_index_s": "bon",
+      "tti_s": "à améliorer"
+    },
+    "field": {
+      "lcp_s": {
+        "value": 1.831,
+        "category": "FAST"
+      },
+      "cls": {
+        "value": 0.08,
+        "category": "FAST"
+      },
+      "inp_ms": {
+        "value": 169.0,
+        "category": "FAST"
+      },
+      "fcp_s": {
+        "value": 0.821,
+        "category": "FAST"
+      },
+      "overall": "FAST"
+    },
+    "google_opportunities": [
+      {
+        "id": "unused-javascript",
+        "title": "Réduisez les ressources JavaScript inutilisées",
+        "savings_ms": 160,
+        "display_value": "Économies estimées : 295 Kio",
+        "description": "Réduisez les ressources JavaScript inutilisées et différez le chargement des scripts tant qu'ils ne sont pas requis afin de réduire la quantité d'octets consommés par l'activité réseau. [Découvrez com"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Réduisez les ressources CSS inutilisées",
+        "savings_ms": 0,
+        "display_value": "Économies estimées : 23 Kio",
+        "description": "Réduisez les règles inutilisées des feuilles de style et différez les ressources CSS non utilisées pour le contenu au-dessus de la ligne de flottaison afin de réduire la quantité d'octets consommés pa"
+      }
+    ],
+    "accessibility": {
+      "score": 92,
+      "rating": "bon",
+      "issues": [
+        {
+          "id": "aria-hidden-focus",
+          "title": "Les éléments `[aria-hidden=\"true\"]` contiennent des descendants sélectionnables",
+          "display_value": null,
+          "weight": 7
+        },
+        {
+          "id": "color-contrast",
+          "title": "Les couleurs d'arrière-plan et de premier plan ne sont pas suffisamment contrastées",
+          "display_value": null,
+          "weight": 7
+        },
+        {
+          "id": "heading-order",
+          "title": "Les éléments d'en-tête ne sont pas classés séquentiellement par ordre décroissant",
+          "display_value": null,
+          "weight": 3
+        }
+      ]
+    },
+    "best_practices": {
+      "score": 100,
+      "rating": "bon",
+      "issues": []
+    },
+    "error": null
+  },
+  "summary": {
+    "mobile_score": 49,
+    "desktop_score": 46,
+    "mobile_lcp_s": 15.57,
+    "mobile_cls": 0.015,
+    "mobile_tbt_ms": 364,
+    "worst_rating": "mauvais",
+    "mobile_accessibility": 92,
+    "mobile_best_practices": 96,
+    "desktop_accessibility": 92,
+    "desktop_best_practices": 100
+  }
+}

@@ -15,7 +15,7 @@ import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
 
-from src.report import (CATEGORIES, RATING_COLOR, build_issues, comparison_rows, cwv_items, device, fr,
+from src.report import (CATEGORIES, build_issues, comparison_rows, cwv_items, device, fr,
                         generate_pdf, https_ok, indicator_rows, load_sites, summary_of)
 
 # Modules de l'équipe : l'app reste utilisable en lecture seule s'ils ne sont pas encore fusionnés.
@@ -32,7 +32,7 @@ load_dotenv()
 RESULTS_DIR, REPORTS_DIR = Path("results"), Path("reports")
 RESULTS_DIR.mkdir(exist_ok=True)
 REPORTS_DIR.mkdir(exist_ok=True)
-MAX_PAGES = 30  # pages explorées lors d'un audit lancé depuis l'interface
+MAX_PAGES = 10  # pages explorées lors d'un audit lancé depuis l'interface
 
 st.set_page_config(page_title="SEO Audit Maroc", page_icon="🔎", layout="wide")
 
@@ -300,7 +300,7 @@ def export_card(height: int | None = None) -> None:
     with st.container(border=False, height=height or "content", key="card-export"):
         html(head("file", "Rapport du site", "PDF structuré : constats techniques, performance et plan d'action priorisé du site sélectionné."))
         if st.button("Générer le rapport PDF", type="primary", width="stretch", disabled=not site or "error" in site["audit"]):
-            path = generate_pdf([site], REPORTS_DIR / f"rapport_{site['domain']}_{date.today()}.pdf")
+            path = generate_pdf([site], REPORTS_DIR / f"rapport_{site['domain'].replace(':', '_')}_{date.today()}.pdf")  # « : » interdit sous Windows
             st.session_state["pdf_site"] = (site["domain"], path.name, path.read_bytes())
         saved = st.session_state.get("pdf_site")
         if site and saved and saved[0] == site["domain"]:

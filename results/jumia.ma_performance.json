@@ -1,0 +1,8 @@
+{
+  "url": "https://www.jumia.ma",
+  "domain": "jumia.ma",
+  "measured_at": "2026-10-27T09:23:00",
+  "api_available": false,
+  "failed_strategy": "mobile",
+  "error": "API PageSpeed : Lighthouse returned error: FAILED_DOCUMENT_REQUEST. Lighthouse n'a pas pu charger correctement la page que vous avez demandée. Assurez-vous de tester la bonne U"
+}

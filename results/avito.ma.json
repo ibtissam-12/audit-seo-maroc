@@ -1,0 +1,268 @@
+{
+  "url": "https://www.avito.ma/",
+  "domain": "avito.ma",
+  "audited_at": "2026-10-27T09:35:48",
+  "access": {
+    "reachable": true,
+    "status": 200,
+    "final_url": "https://www.avito.ma/",
+    "response_time_s": 2.32,
+    "error": null
+  },
+  "robots": {
+    "exists": true,
+    "status": 200,
+    "blocks_all": false,
+    "sitemaps": [
+      "https://www.avito.ma/sitemap.xml"
+    ]
+  },
+  "sitemap": {
+    "exists": true,
+    "url": "https://www.avito.ma/sitemap.xml",
+    "url_count": 9576,
+    "in_robots": true
+  },
+  "https": {
+    "https_available": true,
+    "http_redirects_to_https": true,
+    "hsts": true,
+    "cert_valid": true,
+    "cert_days_left": 68
+  },
+  "pages": [
+    {
+      "url": "https://www.avito.ma/",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.32,
+      "size_kb": 259.2,
+      "title": "Annonces au Maroc | Avito.ma",
+      "title_len": 28,
+      "meta_desc": "Annonces au Maroc gratuites. Vente et location d'immobilier: maisons, appartements. Véhicules : voitures occasion. Biens domestiques et personnels.",
+      "meta_len": 147,
+      "h1_count": 0,
+      "h1": [],
+      "images_total": 27,
+      "images_missing_alt": 0,
+      "canonical": null,
+      "viewport": true,
+      "noindex": false,
+      "word_count": 234
+    },
+    {
+      "url": "https://www.avito.ma/fr/boutiques/maroc/%C3%A0_vendre",
+      "status": 200,
+      "redirects": 1,
+      "ttfb_s": 0.54,
+      "size_kb": 502.9,
+      "title": "Boutiques   dans Tout le Maroc | Avito.ma",
+      "title_len": 41,
+      "meta_desc": "Découvrez 1449 annonces pour nos boutiques   dans Tout le Maroc | Avito la plus grande plateforme de petites annonces au Maroc",
+      "meta_len": 126,
+      "h1_count": 1,
+      "h1": [
+        "Boutiques    au Maroc (1449)"
+      ],
+      "images_total": 14,
+      "images_missing_alt": 0,
+      "canonical": "https://www.avito.ma/fr/boutiques/maroc/à_vendre",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 773
+    },
+    {
+      "url": "https://www.avito.ma/fr/maroc",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 1.14,
+      "size_kb": 956.1,
+      "title": "Vente et achat en ligne partout au Maroc - Avito",
+      "title_len": 48,
+      "meta_desc": "Vendez, achetez et louez vos biens sur Avito ✅ la platefotrme numéro 1 de vente et d'achat au Maroc : Voitures, Téléphones, Appartements, Motos etc.",
+      "meta_len": 148,
+      "h1_count": 1,
+      "h1": [
+        "Toutes les catégories     au  Maroc"
+      ],
+      "images_total": 77,
+      "images_missing_alt": 0,
+      "canonical": "https://www.avito.ma/fr/maroc",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 1262
+    },
+    {
+      "url": "https://www.avito.ma/fr/maroc/appartements-%C3%A0_vendre",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.7,
+      "size_kb": 1043.7,
+      "title": "Ventes Immobilières à vendre - Avito Maroc | Avito Immobilier",
+      "title_len": 61,
+      "meta_desc": "Découvrez 45334 annonces pour Ventes Immobilières à vendre au Maroc, sur Avito.ma ✅ La plateforme numéro 1 de vente et d'achat des biens et services",
+      "meta_len": 148,
+      "h1_count": 1,
+      "h1": [
+        "Appartement    à vendre au  Maroc : 45 334 annonces"
+      ],
+      "images_total": 79,
+      "images_missing_alt": 0,
+      "canonical": "https://www.avito.ma/fr/maroc/appartements-%C3%A0_vendre",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 1979
+    },
+    {
+      "url": "https://www.avito.ma/fr/maroc/motos-%C3%A0_vendre",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.57,
+      "size_kb": 969.9,
+      "title": "Motos à vendre - Avito Maroc | Avito Véhicules",
+      "title_len": 46,
+      "meta_desc": "Découvrez 31346 annonces pour Motos à vendre au Maroc, sur Avito.ma ✅ La plateforme numéro 1 de vente et d'achat des biens et services",
+      "meta_len": 134,
+      "h1_count": 1,
+      "h1": [
+        "Motos    à vendre au  Maroc : 31 346 annonces"
+      ],
+      "images_total": 73,
+      "images_missing_alt": 0,
+      "canonical": "https://www.avito.ma/fr/maroc/motos-%C3%A0_vendre",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 1514
+    },
+    {
+      "url": "https://www.avito.ma/fr/maroc/pour_la_maision_et_jardin-%C3%A0_vendre",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.51,
+      "size_kb": 827.2,
+      "title": "Maison et Jardin à vendre - Avito Maroc | Avito Market",
+      "title_len": 54,
+      "meta_desc": "Découvrez 120828 annonces pour Maison et Jardin à vendre au Maroc, sur Avito.ma ✅ La plateforme numéro 1 de vente et d'achat des biens et services",
+      "meta_len": 146,
+      "h1_count": 1,
+      "h1": [
+        "Maison et Jardin    à vendre au  Maroc : 120 828 annonces"
+      ],
+      "images_total": 64,
+      "images_missing_alt": 0,
+      "canonical": "https://www.avito.ma/fr/maroc/pour_la_maision_et_jardin-%C3%A0_vendre",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 1063
+    },
+    {
+      "url": "https://www.avito.ma/fr/maroc/informatique_et_multimedia-%C3%A0_vendre",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.51,
+      "size_kb": 928.2,
+      "title": "Informatique, Multimedia et Gadgets à vendre - Avito Maroc | Avito Market",
+      "title_len": 73,
+      "meta_desc": "Découvrez 162115 annonces pour Informatique, Multimedia et Gadgets à vendre au Maroc, sur Avito.ma ✅ La plateforme numéro 1 de vente et d'achat des biens et services",
+      "meta_len": 165,
+      "h1_count": 1,
+      "h1": [
+        "Informatique, Multimedia et Gadgets    à vendre au  Maroc : 162 115 annonces"
+      ],
+      "images_total": 80,
+      "images_missing_alt": 0,
+      "canonical": "https://www.avito.ma/fr/maroc/informatique_et_multimedia-%C3%A0_vendre",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 1254
+    },
+    {
+      "url": "https://www.avito.ma/fr/maroc/voyage_et_billetterie-%C3%A0_vendre",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.49,
+      "size_kb": 635.6,
+      "title": "Loisirs et Divertissements à vendre - Avito Maroc | Avito Market",
+      "title_len": 64,
+      "meta_desc": "Découvrez 4120 annonces pour Loisirs et Divertissements à vendre au Maroc, sur Avito.ma ✅ La plateforme numéro 1 de vente et d'achat des biens et services",
+      "meta_len": 154,
+      "h1_count": 1,
+      "h1": [
+        "Voyages et billetterie    à vendre au  Maroc : 4 120 annonces"
+      ],
+      "images_total": 31,
+      "images_missing_alt": 0,
+      "canonical": "https://www.avito.ma/fr/maroc/voyage_et_billetterie-%C3%A0_vendre",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 957
+    },
+    {
+      "url": "https://www.avito.ma/fr/maroc/voitures_d_occasion-%C3%A0_vendre",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.64,
+      "size_kb": 1176.5,
+      "title": "Voitures à vendre - Avito Maroc | Avito Véhicules",
+      "title_len": 49,
+      "meta_desc": "Découvrez 139896 annonces pour Voitures à vendre au Maroc, sur Avito.ma ✅ La plateforme numéro 1 de vente et d'achat des biens et services",
+      "meta_len": 138,
+      "h1_count": 1,
+      "h1": [
+        "Voitures d'occasion    à vendre au  Maroc : 139 896 annonces"
+      ],
+      "images_total": 77,
+      "images_missing_alt": 0,
+      "canonical": "https://www.avito.ma/fr/maroc/voitures_d_occasion-%C3%A0_vendre",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 1381
+    },
+    {
+      "url": "https://www.avito.ma/fr/maroc/appartements-%C3%A0_louer",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.62,
+      "size_kb": 983.3,
+      "title": "Locations Immobilières à louer - Avito Maroc | Avito Immobilier",
+      "title_len": 63,
+      "meta_desc": "Découvrez 54703 annonces pour Locations Immobilières à louer au Maroc, sur Avito.ma ✅ La plateforme numéro 1 de vente et d'achat des biens et services",
+      "meta_len": 150,
+      "h1_count": 1,
+      "h1": [
+        "Appartement    à louer au  Maroc : 54 703 annonces"
+      ],
+      "images_total": 75,
+      "images_missing_alt": 0,
+      "canonical": "https://www.avito.ma/fr/maroc/appartements-%C3%A0_louer",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 1604
+    }
+  ],
+  "broken_links": [],
+  "summary": {
+    "js_rendered_suspected": false,
+    "pages_crawled": 10,
+    "pages_html_ok": 10,
+    "pages_indexable": 10,
+    "noindex_pages": 0,
+    "pages_error": 0,
+    "missing_title": 0,
+    "duplicate_title": 0,
+    "title_too_long": 4,
+    "title_too_short": 1,
+    "missing_meta": 0,
+    "duplicate_meta": 0,
+    "meta_too_long": 1,
+    "meta_too_short": 0,
+    "missing_h1": 1,
+    "multiple_h1": 0,
+    "images_missing_alt": 0,
+    "broken_links": 0,
+    "unreachable_links": 0,
+    "blocked_links": 0,
+    "slow_pages": 0,
+    "avg_ttfb_s": 0.6
+  }
+}

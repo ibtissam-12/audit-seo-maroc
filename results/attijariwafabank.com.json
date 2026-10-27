@@ -1,0 +1,301 @@
+{
+  "url": "https://www.attijariwafabank.com/fr",
+  "domain": "attijariwafabank.com",
+  "audited_at": "2026-10-27T09:25:41",
+  "access": {
+    "reachable": true,
+    "status": 200,
+    "final_url": "https://www.attijariwafabank.com/fr",
+    "response_time_s": 0.17,
+    "error": null
+  },
+  "robots": {
+    "exists": true,
+    "status": 200,
+    "blocks_all": false,
+    "sitemaps": [
+      "https://www.attijariwafabank.com/fr/sitemap.xml",
+      "https://www.attijariwafabank.com/ar/sitemap.xml",
+      "https://www.attijariwafabank.com/en/sitemap.xml"
+    ]
+  },
+  "sitemap": {
+    "exists": true,
+    "url": "https://www.attijariwafabank.com/fr/sitemap.xml",
+    "url_count": 326,
+    "in_robots": true
+  },
+  "https": {
+    "https_available": true,
+    "http_redirects_to_https": true,
+    "hsts": true,
+    "cert_valid": true,
+    "cert_days_left": 56
+  },
+  "pages": [
+    {
+      "url": "https://www.attijariwafabank.com/fr",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.09,
+      "size_kb": 87.9,
+      "title": "Attijariwafa bank | Banque, finance et assurance au Maroc",
+      "title_len": 57,
+      "meta_desc": "Attijariwafa bank, premier groupe bancaire et financier du Maroc : banque, financement, épargne et assurance pour particuliers, MRE et entreprises.",
+      "meta_len": 147,
+      "h1_count": 1,
+      "h1": [
+        "Attijariwafa bank, premier groupe bancaire et financier au Maroc et en Afrique"
+      ],
+      "images_total": 58,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 704
+    },
+    {
+      "url": "https://www.attijariwafabank.com/fr/notre-groupe-bancaire",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.65,
+      "size_kb": 95.3,
+      "title": "Attijariwafa bank, un Groupe bancaire et financier marocain",
+      "title_len": 59,
+      "meta_desc": "Attijariwafa bank est un Groupe panafricain solide qui offre une gamme de services bancaires innovants et des offres intégrées adaptées aux besoins de ses clients.",
+      "meta_len": 163,
+      "h1_count": 1,
+      "h1": [
+        "Le groupe Attijariwafa bank"
+      ],
+      "images_total": 85,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr/notre-groupe-bancaire",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 1374
+    },
+    {
+      "url": "https://www.attijariwafabank.com/fr/rse",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.54,
+      "size_kb": 74.0,
+      "title": "Responsabilité Sociétale des Entreprises du Groupe Attijariwafa bank",
+      "title_len": 68,
+      "meta_desc": "La démarche RSE du Groupe bancaire Attijariwafa bank reflète l’engagement sincère d'une banque qui se promet de relever les défis sociaux, économiques et environnementaux.",
+      "meta_len": 171,
+      "h1_count": 1,
+      "h1": [
+        "Démarche RSE du groupe Attijariwafa bank"
+      ],
+      "images_total": 60,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr/rse",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 1097
+    },
+    {
+      "url": "https://www.attijariwafabank.com/fr/fondation-banque-awb",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.58,
+      "size_kb": 73.0,
+      "title": "La Fondation Attijariwafa bank, plus de 30 ans d’engagements",
+      "title_len": 60,
+      "meta_desc": "Grâce aux efforts philanthropiques de la Fondation Attijariwafa bank, le Groupe bancaire est déterminé à créer des économies florissantes et un avenir meilleur pour tous.",
+      "meta_len": 170,
+      "h1_count": 1,
+      "h1": [
+        "Fondation Attijariwafa bank"
+      ],
+      "images_total": 48,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr/fondation-banque-awb",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 926
+    },
+    {
+      "url": "https://www.attijariwafabank.com/fr/mediation-bancaire-al-wassit-al-banki",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.69,
+      "size_kb": 58.7,
+      "title": "Médiation bancaire – Al Wassit Al Banki | Attijariwafa bank",
+      "title_len": 59,
+      "meta_desc": "Médiation bancaire – Al Wassit Al Banki",
+      "meta_len": 39,
+      "h1_count": 1,
+      "h1": [
+        "Médiation bancaire – Al Wassit Al Banki"
+      ],
+      "images_total": 49,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr/mediation-bancaire-al-wassit-al-banki",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 599
+    },
+    {
+      "url": "https://www.attijariwafabank.com/fr/emploi-carrieres",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.17,
+      "size_kb": 62.5,
+      "title": "Emploi & Carrières | Attijariwafa bank",
+      "title_len": 38,
+      "meta_desc": "Emploi & Carrières Page",
+      "meta_len": 23,
+      "h1_count": 1,
+      "h1": [
+        "Emploi & Carrières"
+      ],
+      "images_total": 44,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr/emploi-carrieres",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 824
+    },
+    {
+      "url": "https://www.attijariwafabank.com/fr/club-afrique-developpement",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.74,
+      "size_kb": 71.4,
+      "title": "Le Club Afrique Développement - Groupe Attijariwafa bank",
+      "title_len": 56,
+      "meta_desc": "Le Club Afrique Développement se veut un catalyseur d’échanges commerciaux en Afrique et une plateforme de mise en relation entre investisseurs et dirigeants locaux.",
+      "meta_len": 165,
+      "h1_count": 1,
+      "h1": [
+        "Club Afrique Développement"
+      ],
+      "images_total": 48,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr/club-afrique-developpement",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 943
+    },
+    {
+      "url": "https://www.attijariwafabank.com/fr/espace-media/actualites",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.12,
+      "size_kb": 76.8,
+      "title": "Actualités",
+      "title_len": 10,
+      "meta_desc": "Actualités Page",
+      "meta_len": 15,
+      "h1_count": 1,
+      "h1": [
+        "Actualités"
+      ],
+      "images_total": 49,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr/espace-media/actualites",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 729
+    },
+    {
+      "url": "https://www.attijariwafabank.com/fr/espace-media",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.68,
+      "size_kb": 60.7,
+      "title": "Espace média | Attijariwafa bank",
+      "title_len": 32,
+      "meta_desc": "Espace média Page",
+      "meta_len": 17,
+      "h1_count": 1,
+      "h1": [
+        "Espace média"
+      ],
+      "images_total": 43,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr/espace-media",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 535
+    },
+    {
+      "url": "https://www.attijariwafabank.com/fr/services-du-groupe",
+      "status": 200,
+      "redirects": 0,
+      "ttfb_s": 0.89,
+      "size_kb": 86.5,
+      "title": "Les services du groupe",
+      "title_len": 22,
+      "meta_desc": "Attijariwafa bank propose de nombreux services financiers et non financiers en ligne afin de gérer et contrôler l’ensemble de vos opérations.",
+      "meta_len": 141,
+      "h1_count": 1,
+      "h1": [
+        "Les services en ligne"
+      ],
+      "images_total": 76,
+      "images_missing_alt": 0,
+      "canonical": "https://www.attijariwafabank.com/fr/services-du-groupe",
+      "viewport": true,
+      "noindex": false,
+      "word_count": 732
+    }
+  ],
+  "broken_links": [
+    {
+      "url": "https://attijarinet.attijaribank.mr/",
+      "status": null,
+      "category": "unreachable",
+      "internal": false,
+      "found_on": "https://www.attijariwafabank.com/fr"
+    },
+    {
+      "url": "https://ebanking.retail.attijariwafa.com.eg/",
+      "status": null,
+      "category": "unreachable",
+      "internal": false,
+      "found_on": "https://www.attijariwafabank.com/fr"
+    },
+    {
+      "url": "https://www.clubafriquedeveloppement.com",
+      "status": 401,
+      "category": "blocked",
+      "internal": false,
+      "found_on": "https://www.attijariwafabank.com/fr/club-afrique-developpement"
+    },
+    {
+      "url": "https://www.clubafriquedeveloppement.com/fr/adherez-au-club",
+      "status": 401,
+      "category": "blocked",
+      "internal": false,
+      "found_on": "https://www.attijariwafabank.com/fr/club-afrique-developpement"
+    }
+  ],
+  "summary": {
+    "js_rendered_suspected": false,
+    "pages_crawled": 10,
+    "pages_html_ok": 10,
+    "pages_indexable": 10,
+    "noindex_pages": 0,
+    "pages_error": 0,
+    "missing_title": 0,
+    "duplicate_title": 0,
+    "title_too_long": 1,
+    "title_too_short": 2,
+    "missing_meta": 0,
+    "duplicate_meta": 0,
+    "meta_too_long": 4,
+    "meta_too_short": 4,
+    "missing_h1": 0,
+    "multiple_h1": 0,
+    "images_missing_alt": 0,
+    "broken_links": 0,
+    "unreachable_links": 2,
+    "blocked_links": 2,
+    "slow_pages": 0,
+    "avg_ttfb_s": 0.52
+  }
+}

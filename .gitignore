@@ -1,13 +1,14 @@
-
-# Environnement virtuel
-.venv/
-venv/
-
-# Fichiers Python temporaires
-__pycache__/
-*.py[cod]
-
-# Variables d'environnement et secrets
+# Secrets 
 .env
-.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Rapports générés (re-créables avec l'application)
+reports/*.pdf
+
+
 
